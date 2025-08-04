@@ -15,9 +15,8 @@
 `pip install pygame-ce`
 
 For Python 3.3 and earlier
-
 `pip install pathlib`
 
 ### executing
 
-'python3 .\GUI\code\main.py'
+`python3 .\GUI\code\main.py`
