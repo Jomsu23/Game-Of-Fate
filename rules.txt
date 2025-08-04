@@ -1,0 +1,18 @@
+Hundreds of years ago, your ancestor stole a magical tarot deck from Fate herself— and it came with a terrible cost. Once every 23 years, one member of your family must face Fate in a duel with rules only known to your opponent. And every time, generation after generation, the outcome is the same: Fate claims their soul. Today, it’s your turn. Can you defeat Fate?
+
+Rules :
+
+1. When you take a number, Fate takes every factor of that number still on the table.
+
+2. You can only take numbers that have at least one factor on the table.
+
+3. When you run out of moves, Fate takes all the remaining cards.
+
+4. You play with cards numbered 1 through 23.
+
+5. To win, the sum of your  cards must be greater than the sum of Fate's cards at the end of the game. Fate wins on a tie.
+
+6. Certain cards grant special rewards if you take them AND win the duel:
+    - (2) The High Priestess : The curse will be broken
+    - (6) The Lovers : You'll soon meet your True Love
+    - (10) Wheel of Fortune : You'll receive unimaginable riches
