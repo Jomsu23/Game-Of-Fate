@@ -4,19 +4,19 @@
 
 ### executing
 
-'python3 .\game_of_fate.py'
+`python3 .\game_of_fate.py`
 
 ## GUI version
 
-*italic* Absolutely not working
+*Absolutely not working*
 
 ### installing needed library
 
-'pip install pygame-ce'
+`pip install pygame-ce`
 
 For Python 3.3 and earlier
 
-'pip install pathlib'
+`pip install pathlib`
 
 ### executing
 
