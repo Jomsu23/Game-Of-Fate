@@ -34,13 +34,10 @@ BLACK = (0, 0, 0)
 BLUE = (13, 153, 255)
 YELLOW = (249, 200, 49)
 
-CARDS = {
-    names : ['the_magician', 'the_high_priestess', 'the_empress', 'the_emperor', 'the_hierophant', 'the_lovers',
+CARDS = ['the_magician', 'the_high_priestess', 'the_empress', 'the_emperor', 'the_hierophant', 'the_lovers',
          'the_chariot', 'strength', 'the_hermit', 'the_wheel_of_fortune', 'justice', 'the_hanged_man',
          'death', 'temperance', 'the_devil', 'the_tower', 'the_star', 'the_moon', 'the_sun',
-         'judgement', 'the_world', 'the_fool', 'the_soul'],
-    values : [n for n in range(1, 24)]
-}
+         'judgement', 'the_world', 'the_fool', 'the_soul']
 
 # general setup
 pygame.init()
