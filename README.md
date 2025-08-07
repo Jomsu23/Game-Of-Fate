@@ -7,7 +7,7 @@ This is a playable version of the Game of Fate, described in this [TED-Ed video]
     - CLI version
     - GUI version
 
-*Note : the GUI version is still a work in progress*
+*Note :* the GUI version is still a work in progress
 
 ## Rules
 
